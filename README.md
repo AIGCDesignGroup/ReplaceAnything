@@ -26,5 +26,5 @@ Feel free to enjoy our ReplaceAnything and share your interesting results with u
 
 
 
-![oufit animie](docs/1.gif)![oufit animie](docs/2.gif)
+![oufit animie](images/g1.png)![oufit animie](images/g2.png)
 
