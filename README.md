@@ -1,9 +1,16 @@
 # ReplaceAnything
 ReplaceAnything as you want: Ultra-high quality content replacement
 
+[Binghui Chen](https://scholar.google.com.hk/citations?user=-2uIiz4AAAAJ&hl=zh-CN),
+[Chao Li](),
+[Chongyang Zhong](https://scholar.google.com.hk/citations?user=ODTZZ4wAAAAJ&hl=zh-CN),
+[Wangmeng Xiang](https://scholar.google.com.hk/citations?user=LFNwNF4AAAAJ&hl=en),
+[Yifeng Geng](),
+[Xuansong Xie]()
+
 Institute for Open Vision, Alibaba Group
 
-<a href='https://aigcdesigngroup.github.io/replace-anything/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'>Paper to be released</a>
+<a href='https://aigcdesigngroup.github.io/replace-anything/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 ---
 
 **<span style="color:red">
