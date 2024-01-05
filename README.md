@@ -20,7 +20,7 @@ News</span>**: Now you can try our ReplaceAnything v1.0 on <a href = "https://ww
 Feel free to share your interesting results with us. If you have any questions or suggestions, don't hesitate to leave a message in issues.
 
 
-To Do Lists:
+**<span>To Do Lists</span>:
 - [ ] Paper release
 - [ ] Code release
 
