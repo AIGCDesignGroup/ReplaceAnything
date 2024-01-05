@@ -20,6 +20,11 @@ News</span>**: Now you can try our ReplaceAnything v1.0 on <a href = "https://ww
 Feel free to share your interesting results with us. If you have any questions or suggestions, don't hesitate to leave a message in issues.
 
 
+To Do Lists:
+- [ ] Paper release
+- [ ] Code release
+
+
 <font color='red'>**Note: Please don't forget to give us a star if you like this project. Thanks!**</font> :stuck_out_tongue_winking_eye:
 
 ---
