@@ -25,6 +25,15 @@ Feel free to enjoy our ReplaceAnything and share your interesting results with u
 ---
 
 
+## Clothing replacement:
+![replaceanything](images/g1.png)
 
-![replaceanything](images/g1.png)![replaceanything](images/g2.png)![replaceanything](images/g3.png)![replaceanything](images/g4.png)![replaceanything](images/g5.png)
+## Background replacement for ID photo and family photo:
+![replaceanything](images/g2.png)
+
+## Human replacement:
+![replaceanything](images/g3.png)
+
+## Background replacement:
+![replaceanything](images/g4.png)![replaceanything](images/g5.png)
 
