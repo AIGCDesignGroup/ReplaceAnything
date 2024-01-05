@@ -25,15 +25,15 @@ Feel free to share your interesting results with us. If you have any questions o
 ---
 
 
-## Clothing replacement:
+## Clothing replacement (masked region is strictly retained):
 ![replaceanything](images/g1.png)
 
-## Background replacement for ID photo and family photo:
+## Background replacement for ID photo and family photo (masked region is strictly retained):
 ![replaceanything](images/g2.png)
 
-## Human replacement:
+## Human replacement (masked region is strictly retained):
 ![replaceanything](images/g3.png)
 
-## Background replacement:
+## Background replacement (masked region is strictly retained):
 ![replaceanything](images/g4.png)![replaceanything](images/g5.png)
 
