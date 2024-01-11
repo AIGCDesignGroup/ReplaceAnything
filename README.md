@@ -14,6 +14,9 @@ Institute for Open Vision, Alibaba Group
 ---
 
 **<span style="color:red">
+News</span>**: Now you can try our ReplaceAnything v1.0 on <a href = "https://huggingface.co/spaces/modelscope/ReplaceAnything">HuggingFace space</a> ( in English ) . Enjoy it and have fun!
+
+**<span style="color:red">
 News</span>**: Now you can try our ReplaceAnything v1.0 on <a href = "https://www.modelscope.cn/studios/damo/ReplaceAnything/summary">ModelScope 魔搭</a> ( in Chinese ) . Enjoy it and have fun!
 
 
