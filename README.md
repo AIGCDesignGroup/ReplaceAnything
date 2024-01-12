@@ -34,7 +34,7 @@ Feel free to share your interesting results with us. If you have any questions o
 
 
 ## Clothing replacement (masked region is strictly retained):
-![replaceanything](images/g1.png)
+![replaceanything](images/g0.png)
 
 ## Background replacement for ID photo and family photo (masked region is strictly retained):
 ![replaceanything](images/g2.png)
