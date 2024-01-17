@@ -10,6 +10,8 @@ ReplaceAnything as you want: Ultra-high quality content replacement
 
 Institute for Intelligent Computing, Alibaba Group
 
+For more AIGC related works of our group, please visit [here](https://github.com/AIGCDesignGroup), and we are seeking collaborators and research interns([Email us](mailto:cangyu.gyf@alibaba-inc.com)).
+
 <a href='https://aigcdesigngroup.github.io/replace-anything/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 ---
 
@@ -21,7 +23,6 @@ Institute for Intelligent Computing, Alibaba Group
 
 Feel free to share your interesting results with us. If you have any questions or suggestions, don't hesitate to leave a message in issues.
 
-For more AIGC related works of our group, please visit [here](https://github.com/AIGCDesignGroup), and we are seeking collaborators and research interns([Email us](mailto:cangyu.gyf@alibaba-inc.com)).
 
 ## ⏰TODOs
 - [x] Release demos
