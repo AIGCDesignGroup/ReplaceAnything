@@ -14,9 +14,9 @@ Institute for Intelligent Computing, Alibaba Group
 ---
 
 ## 📌News
-[2024.01.12] Now you can try our ReplaceAnything v1.0 on <a href = "https://huggingface.co/spaces/modelscope/ReplaceAnything">HuggingFace space</a> ( in English ) . Enjoy it and have fun!
+[2024.01.12] - Now you can try our ReplaceAnything v1.0 on <a href = "https://huggingface.co/spaces/modelscope/ReplaceAnything">HuggingFace space</a> ( in English ) . Enjoy it and have fun!
 
-[2024.01.11] Now you can try our ReplaceAnything v1.0 on <a href = "https://www.modelscope.cn/studios/damo/ReplaceAnything/summary">ModelScope 魔搭</a> ( in Chinese ) . Enjoy it and have fun!
+[2024.01.11] - Now you can try our ReplaceAnything v1.0 on <a href = "https://www.modelscope.cn/studios/damo/ReplaceAnything/summary">ModelScope 魔搭</a> ( in Chinese ) . Enjoy it and have fun!
 
 
 Feel free to share your interesting results with us. If you have any questions or suggestions, don't hesitate to leave a message in issues.
@@ -33,7 +33,7 @@ For more AIGC related works of our group, please visit [here](https://github.com
 
 ---
 
-
+# 🌄Gallery
 ## Clothing replacement (masked region is strictly retained):
 ![replaceanything](images/g0.png)
 
