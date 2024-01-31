@@ -26,8 +26,8 @@ Feel free to share your interesting results with us. If you have any questions o
 
 ## ⏰TODOs
 - [x] Release demos
-- [ ] Paper release
-- [ ] Code release
+- [ ] Paper release (Under Review)
+- [ ] Code release (After paper release)
 
 
 <font color='red'>**Note: Please don't forget to give us a star if you like this project. Thanks!**</font> :stuck_out_tongue_winking_eye:
