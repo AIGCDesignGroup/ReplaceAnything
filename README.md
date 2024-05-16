@@ -16,6 +16,8 @@ For more AIGC related works of our group, please visit [here](https://github.com
 ---
 
 ## 📌News
+[2024.05.16] - We release details of our VirtualModel <a href=""> Arxiv</a>, which is an import part of the ReplaceAnything project.
+
 [2024.01.12] - Now you can try our ReplaceAnything v1.0 on <a href = "https://huggingface.co/spaces/modelscope/ReplaceAnything">HuggingFace space</a> ( in English ) . Enjoy it and have fun!
 
 [2024.01.11] - Now you can try our ReplaceAnything v1.0 on <a href = "https://www.modelscope.cn/studios/damo/ReplaceAnything/summary">ModelScope 魔搭</a> ( in Chinese ) . Enjoy it and have fun!
